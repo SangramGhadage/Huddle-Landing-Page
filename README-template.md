@@ -30,7 +30,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-![screencapture-127-0-0-1-5500-2022-03-24-20_41_06](https://user-images.githubusercontent.com/91652722/160229804-c522aba4-2187-491e-b0b5-92e87c9441e2.png)
+| mobile      | Desktop |
+| ----------- | ----------- |
+|     ![screencapture-127-0-0-1-5500-2022-03-24-20_40_38](https://user-images.githubusercontent.com/91652722/160230014-f9971cf8-4ac1-4d0a-b26a-dd78baf0787c.png)  | ![screencapture-127-0-0-1-5500-2022-03-24-20_41_06](https://user-images.githubusercontent.com/91652722/160229804-c522aba4-2187-491e-b0b5-92e87c9441e2.png)       |
+<!-- ![screencapture-127-0-0-1-5500-2022-03-24-20_41_06](https://user-images.githubusercontent.com/91652722/160229804-c522aba4-2187-491e-b0b5-92e87c9441e2.png) -->
+<!-- ![screencapture-127-0-0-1-5500-2022-03-24-20_40_38](https://user-images.githubusercontent.com/91652722/160230014-f9971cf8-4ac1-4d0a-b26a-dd78baf0787c.png) -->
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
